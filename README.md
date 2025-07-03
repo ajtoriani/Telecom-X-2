@@ -2,6 +2,10 @@
 
 Projeto de **Data Science** desenvolvido como parte do **Desafio Final da Especialização em Data Science** da **Oracle One Next Education em parceria com a Alura**.
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+
 ---
 
 ## Objetivo
@@ -76,12 +80,32 @@ Identificar **clientes com maior risco de evasão (churn)** em uma empresa de te
    pip install -r requirements.txt
    
 3. Execute o notebook TelecomX2.ipynb no Jupyter ou Google Colab.
+---
 
-
-🏷️ Observações
+#  Observações
 Este projeto faz parte da trilha de formação em Data Science do programa Oracle One Next Education com a Alura.
 
-Para uma análise reprodutível, o dataset tratado deve ser incluído no repositório ou disponibilizado via link.
-
-📚 Créditos
+---
+# Créditos
 Oracle Next Education — Alura
+
+---
+
+##  Contribuições
+
+Como este é um projeto de aprendizado, sugestões e melhorias são bem-vindas! Fique à vontade para abrir **Issues** ou **Pull Requests**.
+
+---
+
+##  Autor
+
+Desenvolvido por Ana Julia Toriani Pessoa durante os estudos com **Alura + Oracle Next Education**.
+
+---
+
+##  Licença
+
+Projeto educacional sem fins comerciais.
+
+---
+
